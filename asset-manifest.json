@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/go-it-reader/static/css/main.7acaea2f.css",
-    "main.js": "/go-it-reader/static/js/main.07d3183d.js",
+    "main.js": "/go-it-reader/static/js/main.9e4ef4ea.js",
     "index.html": "/go-it-reader/index.html",
     "main.7acaea2f.css.map": "/go-it-reader/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/go-it-reader/static/js/main.07d3183d.js.map"
+    "main.9e4ef4ea.js.map": "/go-it-reader/static/js/main.9e4ef4ea.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.9e4ef4ea.js"
   ]
 }
